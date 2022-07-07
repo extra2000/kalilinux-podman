@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/extra2000/kalilinux-podman/compare/v1.0.0...v1.1.0) (2022-07-07)
+
+
+### Features
+
+* **Dockerfile:** cleanup after `kali-linux-headless` install ([d359ff1](https://github.com/extra2000/kalilinux-podman/commit/d359ff12ed726af4b02af7c44b4b7aa47460b683))
+
 ## 1.0.0 (2021-11-11)
 
 
